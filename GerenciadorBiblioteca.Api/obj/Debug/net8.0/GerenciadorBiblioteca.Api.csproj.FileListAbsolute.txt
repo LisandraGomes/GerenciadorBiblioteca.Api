@@ -1,0 +1,7 @@
+C:\Users\Lisandra\Documents\2024\Teste Técnico - Jr\GerenciadorBiblioteca.Api\WebApplication1\obj\Debug\net8.0\GerenciadorBiblioteca.Api.csproj.AssemblyReference.cache
+C:\Users\Lisandra\Documents\2024\Teste Técnico - Jr\GerenciadorBiblioteca.Api\WebApplication1\obj\Debug\net8.0\GerenciadorBiblioteca.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisandra\Documents\2024\Teste Técnico - Jr\GerenciadorBiblioteca.Api\WebApplication1\obj\Debug\net8.0\GerenciadorBiblioteca.Api.AssemblyInfoInputs.cache
+C:\Users\Lisandra\Documents\2024\Teste Técnico - Jr\GerenciadorBiblioteca.Api\WebApplication1\obj\Debug\net8.0\GerenciadorBiblioteca.Api.AssemblyInfo.cs
+C:\Users\Lisandra\Documents\2024\Teste Técnico - Jr\GerenciadorBiblioteca.Api\WebApplication1\obj\Debug\net8.0\GerenciadorBiblioteca.Api.csproj.CoreCompileInputs.cache
+C:\Users\Lisandra\Documents\2024\Teste Técnico - Jr\GerenciadorBiblioteca.Api\WebApplication1\obj\Debug\net8.0\GerenciadorBiblioteca.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lisandra\Documents\2024\Teste Técnico - Jr\GerenciadorBiblioteca.Api\WebApplication1\obj\Debug\net8.0\GerenciadorBiblioteca.Api.MvcApplicationPartsAssemblyInfo.cache
